@@ -30,4 +30,4 @@ Fully customizable — just edit text and replace the image!
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/banner-app.git
+   git clone https://github.com/HammadKhalid75/L4_EX1.git
