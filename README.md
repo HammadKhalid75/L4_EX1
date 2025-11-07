@@ -21,7 +21,7 @@ Fully customizable — just edit text and replace the image!
 ---
 
 ## Screenshots
-![Product Banner](Screenshot_1.jpg)  
+![Product Banner](Screenshot_1.png)  
 *Live preview of the app running on emulator*
 
 ---
